@@ -1,2 +1,2 @@
-# Maloi
+# Maloi.github.io
 Bini
